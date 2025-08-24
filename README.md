@@ -57,6 +57,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
+|    1200                 |        1204              |
+|    1201                 |        1205              |
+|    1202                 |                          |
+|    1203                 |                          |
 |                         |                          |
 
 #### Manual Calculations
